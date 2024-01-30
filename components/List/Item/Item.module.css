@@ -1,0 +1,10 @@
+.item {
+    width: 50%;
+    padding: 20px;
+}
+
+@media (max-width: 800px) {
+    .item {
+        width: 100%;
+    }
+}
